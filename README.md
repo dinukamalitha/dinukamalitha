@@ -11,7 +11,7 @@
 <tr border="none">
 <td width="50%" align="left">
 
-- 🔭 I’m currently working on [X-Bus Web](https://github.com/MrSilent2001/X-Bus_Web)
+- 🔭 I’m currently working on [VRL Institute](https://github.com/dinukamalitha/VRL-Institute)
 
 - 🌱 I’m currently learning **Django, Go, ASP.net, SpringBoot**
 
@@ -103,11 +103,11 @@
 
 ### Profile Statistics: 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=MrSilent2001&show_icons=true&locale=en" alt="MrSilent2001" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=dinukamalitha&show_icons=true&locale=en" alt="dinukamalitha" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MrSilent2001&" alt="MrSilent2001" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinukamalitha&" alt="dinukamalitha" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MrSilent2001&show_icons=true&locale=en&layout=compact" alt="MrSilent2001" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinukamalitha&show_icons=true&locale=en&layout=compact" alt="dinukamalitha" /></p>
 
 ---
 
